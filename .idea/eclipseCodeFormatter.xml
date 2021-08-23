@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1627921471043" />
+        <option name="name" value="Zayd-Waves" />
+        <option name="optimizeImports" value="false" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../Stuff/zw-code-settings.xml" />
+        <option name="selectedJavaProfile" value="Zayd-Waves" />
+      </Settings>
+    </option>
+  </component>
+</project>
